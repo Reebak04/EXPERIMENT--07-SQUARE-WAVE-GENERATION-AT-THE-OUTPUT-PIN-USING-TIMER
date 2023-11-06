@@ -45,6 +45,7 @@ In normal settings, assuming you’re using the timer module in PWM mode and gen
 
 ## STM 32 CUBE PROGRAM :
 ```
+Developed by : Tejusve Kabeer.F Register no : 212222100054
 HAL_TIM_Base_Start(&htim2);
 HAL_TIM_PWM_Init(&htim2);
 HAL_TIM_PWM_Start(&htim2,TIM_CHANNEL_1);
